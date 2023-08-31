@@ -15,3 +15,4 @@ npx create-expo-app -e with-router
 
 ## 📝 Extras
 - I used free package of Rapid API, so if it returns 429, it means my API key calls limit exceeded.
+- I did not push my API key to github, relax. It just means you should make your own API key.
